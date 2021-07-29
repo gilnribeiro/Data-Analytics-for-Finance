@@ -1,0 +1,19 @@
+Problems with the managed volatility strategy:
+- Transaction costs
+- Taxes
+
+If people have leverage aversion:
+- Easy to make mistakes that cause you to go broke
+- Depends on the degree of risk aversion
+
+To try to prevent panic stock exchanges have a thing called Circuit Breaker:
+- If stock price moves too much and people are panic
+- They alt the stock trading altogether for a while
+
+Leverage has an inherent "Getting really broke" risk:
+- Eg. imagine if you had leverage on GME because it was low volatility
+
+(The game we are playing iis taht volatility falls faster than expected returns)
+
+Take volatility target (e.g. 15) divide by the VICS and you can see how much you should put in the market
+- e.g 20/22 -> 90% market 10% cash simple volatility timming strategy

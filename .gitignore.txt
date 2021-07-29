@@ -1,0 +1,4 @@
+Final Project Assignment and Examples/
+.secrets
+..ionide
+..vscode
